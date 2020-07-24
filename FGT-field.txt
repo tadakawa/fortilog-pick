@@ -1,0 +1,15 @@
+date
+time
+devname
+vd
+action
+srcintf
+srcip
+srcport
+dstintf
+dstip
+dstport
+protopolicyname
+policyid
+logid
+sessionid
